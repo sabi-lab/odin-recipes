@@ -1,0 +1,30 @@
+body{
+    background-color: beige;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 400;
+}
+
+#title {
+    font-weight: 700;
+    text-decoration: underline;
+    background-color:chocolate;
+    color:aliceblue;
+    padding: 1rem;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+}
+
+.paragraph_header {
+    font-family: Helvetica, sans-serif;
+    text-align: left;
+}
